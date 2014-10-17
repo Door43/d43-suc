@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[suc:home|Door43 (suc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-suc|d43-suc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-suc/archive/master.zip|d43-suc.zip]]
+
+**Recent Changes**
+{{changes>ns = suc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/suc|Ethnologue data]]
+
